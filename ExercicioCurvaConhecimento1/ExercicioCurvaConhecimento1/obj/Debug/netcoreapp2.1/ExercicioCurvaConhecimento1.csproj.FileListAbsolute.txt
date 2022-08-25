@@ -1,0 +1,11 @@
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\bin\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.deps.json
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\bin\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.runtimeconfig.json
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\bin\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\bin\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.dll
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\bin\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.pdb
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\obj\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\obj\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\obj\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\obj\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\obj\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.dll
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento1\ExercicioCurvaConhecimento1\obj\Debug\netcoreapp2.1\ExercicioCurvaConhecimento1.pdb

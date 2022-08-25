@@ -1,0 +1,10 @@
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\bin\Debug\Teste2.exe.config
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\bin\Debug\Teste2.exe
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\bin\Debug\Teste2.pdb
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\obj\Debug\Teste2.Form1.resources
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\obj\Debug\Teste2.Properties.Resources.resources
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\obj\Debug\ExercicioCurvaConhecimento2.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\obj\Debug\ExercicioCurvaConhecimento2.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\obj\Debug\Teste2.exe
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\obj\Debug\Teste2.pdb
+C:\Users\fabio\source\repos\ExercicioCurvaConhecimento2\ExercicioCurvaConhecimento2\obj\Debug\ExercicioCurvaConhecimento2.csprojAssemblyReference.cache
